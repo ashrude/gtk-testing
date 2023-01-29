@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=testing
+Exec=ca.ashleyr.testing
+Icon=ca.ashleyr.testing
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

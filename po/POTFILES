@@ -1,0 +1,6 @@
+data/ca.ashleyr.testing.desktop.in
+data/ca.ashleyr.testing.appdata.xml.in
+data/ca.ashleyr.testing.gschema.xml
+src/main.js
+src/window.js
+src/window.ui
