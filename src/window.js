@@ -22,10 +22,12 @@ import GObject from 'gi://GObject';
 import Gtk from 'gi://Gtk';
 import Adw from 'gi://Adw';
 
+import { Test } from './ui/Test.js';
+
 export const TestingWindow = GObject.registerClass({
     GTypeName: 'TestingWindow',
     Template: 'resource:///ca/ashleyr/testing/window.ui',
-    InternalChildren: ['label'],
+    InternalChildren: [],
 }, class TestingWindow extends Adw.ApplicationWindow {
     constructor(application) {
         super({ application });

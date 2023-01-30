@@ -6,7 +6,7 @@ export const Test = GObject.registerClass({
 	GTypeName: 'Test',
 	Template: 'resource:///ca/ashleyr/testing/ui/Test.ui'
 }, class Test extends Gtk.Widget {
-	constructor(application) {
-		super({ application });
-	}
+	//constructor(application) {
+	//	super({ application });
+	//}
 });

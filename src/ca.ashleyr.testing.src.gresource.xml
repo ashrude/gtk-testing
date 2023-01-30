@@ -3,6 +3,6 @@
   <gresource prefix="/ca/ashleyr/testing/js">
     <file>main.js</file>
     <file>window.js</file>
-		<file>ui/Test.ui</file>
+		<file>ui/Test.js</file>
   </gresource>
 </gresources>
